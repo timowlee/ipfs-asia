@@ -41,3 +41,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Purpose
 
 We are aming to share all the knowledge about IPFS and Filecoin. Technology will change the world.
+
+### Filecoin
+Filecoin is the incentive layer of IPFS distributed network. 
